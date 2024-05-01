@@ -4,4 +4,4 @@ One of the key pain points for marketers is to know their customers and identify
 
 A big bank has extensive data on their customers for the past 6 months. The marketing team at the bank wants to launch a targeted ad marketing campaign by dividing their customers into at least 3 distinctive groups.  
 
-All data collected and ussed is from ssecondary source.
+All data collected and used is from secondary sources.
